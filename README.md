@@ -4,7 +4,6 @@
 - 🌴 other intrests besides coding are gaming and listening to some good music 🎮🎧
 - 📫 How to reach me ...
   [facebook](https://www.facebook.com/mahmoud.ashraf44) . 
-  [twitter](https://www.twitter.com/mvhmxud)
 
 <!---
 mvhmxud/mvhmxud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
