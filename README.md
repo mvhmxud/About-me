@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mahmoud Ashraf a 20 yo Computer science student 👨‍💻
+- 👋 Hi, I’m Mahmoud Ashraf a 21 yo Computer science student 👨‍💻
 - 👀 I’m interested in web technologies 🌐 
-- 🌱 I’m currently learning React.js ⚛
+- 🌱 I’m currently learning Node js 🟢
 - 🌴 other intrests besides coding are gaming and listening to some good music 🎮🎧
 - 📫 How to reach me ...
   [facebook](https://www.facebook.com/mahmoud.ashraf44) . 
